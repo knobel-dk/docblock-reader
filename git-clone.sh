@@ -1,443 +1,443 @@
-git clone https://github.com/paragonie/past.git
-git clone https://github.com/laravel/laravel.git
-git clone https://github.com/symfony/thanks.git
-git clone https://github.com/composer/composer.git
-git clone https://github.com/php-pm/php-pm.git
-git clone https://github.com/mikeerickson/phpunit-pretty-result-printer.git
-git clone https://github.com/Seldaek/monolog.git
-git clone https://github.com/doctrine/inflector.git
-git clone https://github.com/symfony/symfony.git
-git clone https://github.com/sebastianbergmann/phpunit.git
-git clone https://github.com/fzaninotto/Faker.git
-git clone https://github.com/symfony/console.git
-git clone https://github.com/laravel/framework.git
-git clone https://github.com/symfony/debug.git
-git clone https://github.com/symfony/event-dispatcher.git
-git clone https://github.com/swiftmailer/swiftmailer.git
-git clone https://github.com/symfony/finder.git
-git clone https://github.com/guzzle/guzzle.git
-git clone https://github.com/symfony/http-foundation.git
-git clone https://github.com/phpDocumentor/ReflectionDocBlock.git
-git clone https://github.com/sebastianbergmann/php-timer.git
-git clone https://github.com/symfony/routing.git
-git clone https://github.com/phpDocumentor/TypeResolver.git
-git clone https://github.com/symfony/http-kernel.git
-git clone https://github.com/sebastianbergmann/exporter.git
-git clone https://github.com/sebastianbergmann/php-code-coverage.git
-git clone https://github.com/phpDocumentor/ReflectionCommon.git
-git clone https://github.com/nikic/PHP-Parser.git
-git clone https://github.com/symfony/process.git
-git clone https://github.com/sebastianbergmann/phpunit-mock-objects.git
-git clone https://github.com/sebastianbergmann/comparator.git
-git clone https://github.com/composer/installers.git
-git clone https://github.com/FriendsOfPHP/pickle.git
-git clone https://github.com/joshdifabio/composed.git
-git clone https://github.com/silpion/composer-checker.git
-git clone https://github.com/wikimedia/composer-merge-plugin.git
-git clone https://github.com/bamarni/composition.git
-git clone https://github.com/ralphschindler/Namespacer.git
-git clone https://github.com/goatherd/patch-installer.git
-git clone https://github.com/hirak/prestissimo.git
-git clone https://github.com/composer/satis.git
-git clone https://github.com/tommy-muehle/tooly-composer-script.git
-git clone https://github.com/ppi.git
-git clone https://github.com/yiisoft/yii2/.git
-git clone https://github.com/friendsofcake/crud.git
-git clone https://github.com/symfony-cmf/symfony-cmf.git
-git clone https://github.com/alexbilbie/Proton.git
-git clone https://github.com/radarphp/Radar.Adr.git
-git clone https://github.com/silexphp/Silex-Skeleton.git
-git clone https://github.com/silexphp/Silex-WebProfiler.git
-git clone https://github.com/slimphp/Slim-Skeleton.git
-git clone https://github.com/slimphp/Slim-Views.git
-git clone https://github.com/auraphp/Aura.Router.git
-git clone https://github.com/nikic/FastRoute.git
-git clone https://github.com/klein/klein.php.git
-git clone https://github.com/c9s/Pux.git
-git clone https://github.com/thephpleague/route.git
-git clone https://github.com/auraphp/Aura.View.git
-git clone https://github.com/FoilPHP/Foil.git
-git clone https://github.com/pyrocms/lex.git
-git clone https://github.com/arnaud-lb/MtHaml.git
-git clone https://github.com/bobthecow/mustache.php.git
-git clone https://github.com/phly/phly_mustache.git
-git clone https://github.com/Talesoft/tale-jade.git
-git clone http://couscous.io.git
-git clone https://github.com/Pawka/phrozn.git
-git clone https://github.com/kriswallsmith/Buzz.git
-git clone https://github.com/nategood/httpful.git
-git clone http://php-vcr.github.io/.git
-git clone https://github.com/rmccue/Requests.git
-git clone https://github.com/tebru/retrofit-php.git
-git clone https://github.com/zendframework/zend-diactoros.git
-git clone https://github.com/oscarotero/Embed.git
-git clone https://github.com/FriendsOfPHP/Goutte.git
-git clone https://github.com/mvdbos/php-spider.git
-git clone https://zendframework.github.io/zend-expressive.git
-git clone https://github.com/oscarotero/psr7-middlewares.git
-git clone https://github.com/relayphp/Relay.Relay.git
-git clone https://github.com/stackphp.git
-git clone https://github.com/zendframework/zend-stratigility.git
-git clone https://github.com/jeremykendall/php-domain-parser.git
-git clone https://github.com/jwage/purl.git
-git clone https://github.com/sabre-io/uri.git
-git clone https://github.com/thephpleague/uri.git
-git clone https://github.com/tijsverkoyen/CssToInlineStyles.git
-git clone https://github.com/willdurand/EmailReplyParser.git
-git clone https://github.com/nojacko/email-validator.git
-git clone https://github.com/tedious/Fetch.git
-git clone https://github.com/mautic/mautic.git
-git clone https://github.com/PHPMailer/PHPMailer.git
-git clone https://github.com/Stampie/Stampie.git
-git clone https://github.com/dflydev/dflydev-apache-mime-types.git
-git clone https://github.com/dflydev/dflydev-canal.git
-git clone https://github.com/thephpleague/csv.git
-git clone https://github.com/versionable/Ferret.git
-git clone https://github.com/thephpleague/Flysystem.git
-git clone https://github.com/KnpLabs/Gaufrette.git
-git clone https://github.com/hoaproject/Mime.git
-git clone https://github.com/henrikbjorn/Lurker.git
-git clone https://github.com/PHP-FFmpeg/PHP-FFmpeg/.git
-git clone https://github.com/wapmorgan/UnifiedArchive.git
-git clone https://github.com/fzaninotto/Streamer.git
-git clone https://github.com/auraphp/Aura.Di.git
-git clone https://github.com/AcclimateContainer/acclimate-container.git
-git clone https://github.com/rdlowrey/Auryn.git
-git clone https://github.com/thephpleague/container.git
-git clone https://github.com/bitExpert/disco.git
-git clone https://github.com/symfony/dependency-injection.git
-git clone https://github.com/thephpleague/color-extractor.git
-git clone https://github.com/Sybio/GifCreator.git
-git clone https://github.com/Sybio/GifFrameExtractor.git
-git clone https://github.com/thephpleague/glide.git
-git clone https://github.com/jenssegers/imagehash.git
-git clone https://github.com/psliwa/image-optimizer.git
-git clone https://github.com/nmcteam/image-with-text.git
-git clone https://github.com/Intervention/image.git
-git clone https://github.com/Sybio/ImageWorkshop.git
-git clone https://github.com/nelmio/alice.git
-git clone https://github.com/Codeception/AspectMock.git
-git clone https://github.com/atoum/atoum.git
-git clone https://github.com/Codeception/Codeception.git
-git clone https://github.com/sebastianbergmann/dbunit.git
-git clone https://github.com/InterNations/http-mock.git
-git clone https://github.com/kahlan/kahlan.git
-git clone https://github.com/mockery/mockery.git
-git clone https://github.com/brianium/paratest.git
-git clone https://github.com/peridot-php/peridot.git
-git clone https://github.com/mlively/Phake.git
-git clone https://github.com/danielstjules/pho.git
-git clone https://github.com/php-mock/php-mock.git
-git clone https://github.com/phpspec/phpspec.git
-git clone https://github.com/phpspec/prophecy.git
-git clone https://github.com/mauris/samsui.git
-git clone https://github.com/mikey179/vfsStream.git
-git clone https://github.com/adlawson/php-vfs.git
-git clone https://github.com/jolicode/JoliCi.git
-git clone https://github.com/apigen/apigen.git
-git clone https://github.com/justinwalsh/daux.io.git
-git clone https://github.com/phpDocumentor/phpDocumentor2.git
-git clone https://github.com/FriendsOfPHP/Sami.git
-git clone https://paragonie.com/project/halite.git
-git clone https://github.com/ezyang/htmlpurifier.git
-git clone https://github.com/psecio/iniscan.git
-git clone https://github.com/jenssegers/optimus.git
-git clone https://github.com/defuse/php-encryption.git
-git clone https://github.com/PHPIDS/PHPIDS.git
-git clone https://github.com/Herzult/php-ssh.git
-git clone https://github.com/paragonie/random_compat.git
-git clone https://github.com/ircmaxell/RandomLib.git
-git clone https://github.com/padraic/SecurityMultiTool.git
-git clone https://github.com/timoh6/TCrypto.git
-git clone https://github.com/timoh6/GenPhrase.git
-git clone https://github.com/ircmaxell/password_compat.git
-git clone https://github.com/ircmaxell/password-policy.git
-git clone https://github.com/jeremykendall/password-validator.git
-git clone https://github.com/hackzilla/password-generator.git
-git clone https://github.com/ircmaxell/PHP-PasswordLib.git
-git clone https://github.com/bjeavons/zxcvbn-php.git
-git clone https://github.com/Roave/BetterReflection.git
-git clone https://github.com/tomzx/php-semver-checker.git
-git clone https://github.com/sebastianbergmann/phploc.git
-git clone https://github.com/EdgedesignCZ/phpqa.git
-git clone https://github.com/Qafoo/QualityAnalyzer.git
-git clone https://scrutinizer-ci.com.git
-git clone https://github.com/devster/ubench.git
-git clone https://github.com/squizlabs/PHP_CodeSniffer.git
-git clone https://github.com/FriendsOfPHP/PHP-CS-Fixer.git
-git clone https://github.com/PHPCheckstyle/phpcheckstyle.git
-git clone https://github.com/sebastianbergmann/phpcpd.git
-git clone https://github.com/exakat/exakat.git
-git clone https://github.com/Trismegiste/Mondrian.git
-git clone https://github.com/phan/phan.git
-git clone https://github.com/wimg/PHPCompatibility.git
-git clone https://github.com/mamuz/PhpDependencyAnalysis.git
-git clone https://github.com/phpmetrics/PhpMetrics.git
-git clone https://github.com/monque/PHP-Migration.git
-git clone https://github.com/phpstan/phpstan.git
-git clone https://github.com/vimeo/psalm.git
-git clone https://github.com/igorw/compose.git
-git clone https://github.com/domnikl/DesignPatternsPHP.git
-git clone https://github.com/lstrojny/functional-php.git
-git clone https://github.com/endel/galapagos.git
-git clone https://github.com/nikic/iter.git
-git clone https://github.com/ircmaxell/monad-php.git
-git clone https://github.com/schmittjoh/php-option.git
-git clone https://github.com/thephpleague/pipeline.git
-git clone https://github.com/bobthecow/Ruler.git
-git clone https://github.com/K-Phoen/rulerz.git
-git clone https://github.com/barbushin/php-console.git
-git clone https://github.com/kint-php/kint.git
-git clone https://github.com/Seldaek/php-console.git
-git clone https://github.com/phpbench/phpbench.git
-git clone https://github.com/nette/tracy.git
-git clone https://github.com/xdebug/xdebug.git
-git clone https://github.com/phacility/xhprof.git
-git clone https://github.com/CHH/bob.git
-git clone https://github.com/box-project/box2.git
-git clone https://github.com/jonathantorres/construct.git
-git clone https://github.com/jaz303/phake.git
-git clone https://github.com/jobbyphp/jobby.git
-git clone https://github.com/consolidation/Robo.git
-git clone http://taskphp.github.io.git
-git clone https://github.com/KnpLabs/KnpMenu.git
-git clone https://github.com/tedious/JShrink.git
-git clone https://github.com/meenie/munee.git
-git clone https://github.com/puli/repository.git
-git clone https://github.com/Bee-Lab/bowerphp.git
-git clone https://github.com/jmikola/geojson.git
-git clone https://github.com/thephpleague/geotools.git
-git clone https://github.com/mjaschen/phpgeo.git
-git clone https://github.com/briannesbitt/Carbon.git
-git clone https://github.com/cakephp/chronos.git
-git clone https://github.com/fightbulc/moment.php.git
-git clone https://github.com/azuyalabs/yasumi.git
-git clone https://github.com/amphp/amp.git
-git clone https://github.com/broadway/broadway.git
-git clone https://github.com/cakephp/event.git
-git clone https://github.com/Wisembly/Elephant.io.git
-git clone https://github.com/igorw/evenement.git
-git clone https://github.com/thephpleague/event.git
-git clone https://github.com/hoaproject/Eventsource.git
-git clone https://github.com/hoaproject/Websocket.git
-git clone https://github.com/prooph/event-store.git
-git clone https://github.com/ratchetphp/Ratchet.git
-git clone https://github.com/reactphp/react.git
-git clone https://github.com/asm89/Rx.PHP.git
-git clone https://github.com/walkor/Workerman.git
-git clone https://github.com/moneyphp/money.git
-git clone https://github.com/thephpleague/omnipay.git
-git clone https://github.com/payum/payum.git
-git clone https://github.com/shopware/shopware.git
-git clone https://github.com/florianv/swap.git
-git clone https://github.com/dompdf/dompdf.git
-git clone https://github.com/psliwa/PHPPdf.git
-git clone https://github.com/KnpLabs/snappy.git
-git clone https://github.com/wkhtmltopdf/wkhtmltopdf.git
-git clone https://github.com/Wisembly/ExcelAnt.git
-git clone https://github.com/PHPOffice/PHPPresentation.git
-git clone https://github.com/PHPOffice/PHPWord.git
-git clone https://github.com/PHPOffice/PhpSpreadsheet.git
-git clone https://github.com/atlasphp/Atlas.Orm.git
-git clone https://github.com/auraphp/Aura.Sql.git
-git clone https://github.com/auraphp/Aura.SqlQuery.git
-git clone https://github.com/etrepat/baum.git
-git clone https://github.com/cakephp/orm.git
-git clone https://github.com/Atlantic18/DoctrineExtensions.git
-git clone https://github.com/illuminate/database.git
-git clone https://github.com/corneltek/LazyRecord.git
-git clone https://github.com/chanmix51/Pomm.git
-git clone https://github.com/Ocramius/ProxyManager.git
-git clone https://github.com/spotorm/spot2.git
-git clone https://github.com/icomefromthenet/Migrations.git
-git clone https://github.com/cakephp/phinx.git
-git clone https://github.com/davedevelopment/phpmig.git
-git clone https://github.com/ruckus/ruckusing-migrations.git
-git clone https://github.com/thephpleague/monga.git
-git clone https://github.com/alexbilbie/MongoQB.git
-git clone https://github.com/sokil/php-mongo.git
-git clone https://github.com/nrk/predis.git
-git clone https://github.com/bernardphp/bernard.git
-git clone https://github.com/jakubkulhan/bunny.git
-git clone https://github.com/pda/pheanstalk.git
-git clone https://github.com/php-amqplib/php-amqplib.git
-git clone https://github.com/tarantool-php/queue.git
-git clone https://github.com/php-amqplib/Thumper.git
-git clone https://github.com/ruflin/Elastica.git
-git clone https://github.com/elastic/elasticsearch-php.git
-git clone https://github.com/ripaclub/sphinxsearch.git
-git clone http://foolcode.github.io/SphinxQL-Query-Builder.git
-git clone https://github.com/auraphp/Aura.Cli.git
-git clone https://github.com/borisrepl/boris.git
-git clone https://github.com/Cilex/Cilex.git
-git clone https://github.com/php-school/cli-menu.git
-git clone https://github.com/c9s/CLIFramework.git
-git clone https://github.com/thephpleague/climate.git
-git clone https://github.com/nategood/commando.git
-git clone https://github.com/mtdowling/cron-expression.git
-git clone https://github.com/getopt-php/getopt-php.git
-git clone https://github.com/c9s/GetOptionKit.git
-git clone https://github.com/hoaproject/Console.git
-git clone https://github.com/CHH/optparse.git
-git clone https://github.com/mcrumm/pecan.git
-git clone https://github.com/bobthecow/psysh.git
-git clone https://github.com/MrRio/shellwrap.git
-git clone https://github.com/auraphp/Aura.Auth.git
-git clone https://github.com/dflydev/dflydev-hawk.git
-git clone https://github.com/socialConnect/auth.git
-git clone https://github.com/lcobucci/jwt.git
-git clone https://github.com/thephpleague/oauth1-client.git
-git clone https://github.com/thephpleague/oauth2-client.git
-git clone http://bshaffer.github.io/oauth2-server-php-docs.git
-git clone https://github.com/opauth/opauth.git
-git clone https://github.com/Lusitanian/PHPoAuthLib.git
-git clone https://github.com/abraham/twitteroauth.git
-git clone https://github.com/lyrixx/twitter-sdk.git
-git clone https://github.com/cebe/markdown.git
-git clone https://github.com/kzykhys/Ciconia.git
-git clone https://github.com/thephpleague/commonmark.git
-git clone https://github.com/milesj/decoda.git
-git clone https://github.com/heyupdate/Emoji.git
-git clone https://github.com/thephpleague/html-to-markdown.git
-git clone https://github.com/Masterminds/html5-php.git
-git clone https://github.com/erusev/parsedown.git
-git clone https://github.com/michelf/php-markdown.git
-git clone https://github.com/jenssegers/agent.git
-git clone https://github.com/sensiolabs/ansi-to-html.git
-git clone https://github.com/mikeemoo/ColorJizz-PHP.git
-git clone https://github.com/piwik/device-detector.git
-git clone https://github.com/hoaproject/Ustring.git
-git clone https://github.com/fukuball/jieba-php.git
-git clone https://github.com/serbanghita/Mobile-Detect.git
-git clone https://github.com/nicolas-grekas/Patchwork-UTF8.git
-git clone https://github.com/cocur/slugify.git
-git clone https://github.com/jdorn/sql-formatter/.git
-git clone https://github.com/danielstjules/Stringy.git
-git clone https://github.com/kzykhys/Text.git
-git clone https://github.com/tobie/ua-parser/tree/master/php.git
-git clone https://github.com/jbroadway/urlify.git
-git clone https://github.com/ramsey/uuid.git
-git clone https://github.com/gabrielelana/byte-units.git
-git clone https://github.com/giggsey/libphonenumber-for-php.git
-git clone https://github.com/moontoast/math.git
-git clone https://github.com/powder96/numbers.php.git
-git clone https://github.com/Crisu83/php-conversion.git
-git clone https://github.com/triplepoint/php-units-of-measure.git
-git clone https://github.com/auraphp/Aura.Filter.git
-git clone https://github.com/cakephp/validation.git
-git clone https://github.com/rdohms/DMS-Filter.git
-git clone https://github.com/ircmaxell/filterus.git
-git clone https://github.com/ronanguilloux/IsoCodes.git
-git clone https://github.com/romaricdrigon/MetaYaml.git
-git clone https://github.com/Respect/Validation.git
-git clone https://github.com/brandonsavage/Upload.git
-git clone https://github.com/vlucas/valitron.git
-git clone https://github.com/serkin/Volan.git
-git clone https://github.com/zfcampus/zf-apigility-skeleton.git
-git clone https://github.com/leedavis81/drest.git
-git clone https://github.com/blongden/hal.git
-git clone https://github.com/willdurand/Hateoas.git
-git clone https://github.com/willdurand/Negotiation.git
-git clone https://github.com/Luracast/Restler.git
-git clone https://github.com/wsdl2phpgenerator/wsdl2phpgenerator.git
-git clone https://github.com/apix/cache.git
-git clone https://github.com/gordalina/cachetool.git
-git clone https://github.com/cakephp/cache.git
-git clone https://github.com/doctrine/cache.git
-git clone https://github.com/sobstel/metaphore.git
-git clone https://github.com/tedious/Stash.git
-git clone https://github.com/zendframework/zend-cache.git
-git clone https://github.com/morrisonlevi/Ardent.git
-git clone https://github.com/cakephp/collection.git
-git clone https://github.com/italolelis/collections.git
-git clone https://github.com/thephpleague/fractal.git
-git clone https://github.com/akanehara/ginq.git
-git clone https://github.com/cweiske/jsonmapper.git
-git clone https://github.com/DusanKasan/Knapsack.git
-git clone https://github.com/schmittjoh/php-collection.git
-git clone https://github.com/TimeToogo/Pinq.git
-git clone https://github.com/ScriptFUSION/Porter.git
-git clone https://github.com/schmittjoh/serializer.git
-git clone https://github.com/Wisembly/Totem.git
-git clone https://github.com/Athari/YaLinqo.git
-git clone https://github.com/zendframework/zend-serializer.git
-git clone https://github.com/jolicode/JoliNotif.git
-git clone https://github.com/filp/nod.git
-git clone https://github.com/Ph3nol/NotificationPusher.git
-git clone https://github.com/mac-cain13/notificato.git
-git clone https://github.com/namshi/notificator.git
-git clone https://github.com/gomoob/php-pushwoosh.git
-git clone https://github.com/deployphp/deployer.git
-git clone https://github.com/laravel/envoy.git
-git clone https://github.com/aerialls/Plum.git
-git clone https://github.com/tamagokun/pomander.git
-git clone https://github.com/rocketeers/rocketeer.git
-git clone https://github.com/auraphp/Aura.Intl.git
-git clone https://github.com/cakephp/i18n.git
-git clone https://github.com/aws/aws-sdk-php.git
-git clone http://campaignmonitor.github.io/createsend-php.git
-git clone https://github.com/toin0u/DigitalOcean.git
-git clone https://github.com/dropbox/dropbox-sdk-php.git
-git clone https://github.com/dsyph3r/github-api3-php.git
-git clone https://github.com/mailgun/mailgun-php.git
-git clone https://github.com/KnpLabs/php-github-api.git
-git clone https://github.com/gwkunze/S3StreamWrapper.git
-git clone https://github.com/stripe/stripe-php.git
-git clone https://github.com/twilio/twilio-php.git
-git clone https://github.com/widop/twitter-oauth.git
-git clone https://github.com/widop/twitter-rest.git
-git clone https://github.com/phalcon/zephir.git
-git clone https://github.com/doctrine/annotations.git
-git clone https://github.com/botman/botman.git
-git clone https://github.com/cakephp/utility.git
-git clone https://github.com/adamnicholson/Chief.git
-git clone https://github.com/ClassPreloader/ClassPreloader.git
-git clone https://github.com/umpirsky/country-list.git
-git clone https://github.com/mpratt/Embera.git
-git clone https://github.com/essence/essence.git
-git clone https://github.com/selvinortiz/flux.git
-git clone https://github.com/alexandresalome/graphviz.git
-git clone https://github.com/hprose/hprose-php.git
-git clone https://github.com/Seldaek/jsonlint.git
-git clone https://github.com/willdurand/JsonpCallbackValidator.git
-git clone https://github.com/kakawait/Jumper.git
-git clone https://github.com/raulfraile/Ladybug.git
-git clone https://github.com/igorw/lambda-php.git
-git clone https://github.com/beberlei/litecqrs-php.git
-git clone https://github.com/beberlei/metrics.git
-git clone https://github.com/ARCANEDEV/noCAPTCHA.git
-git clone https://github.com/willdurand/nmap.git
-git clone https://github.com/euskadi31/Opengraph.git
-git clone https://github.com/whiteoctober/Pagerfanta.git
-git clone https://github.com/Kitano/php-expression.git
-git clone https://github.com/eymengunay/php-passbook.git
-git clone https://github.com/ronanguilloux/php-gpio.git
-git clone https://github.com/php-ai/php-ml.git
-git clone https://github.com/phpcr/phpcr.git
-git clone https://github.com/koriym/print_o.git
-git clone https://github.com/lstrojny/Procrastinator.git
-git clone https://github.com/prooph/service-bus.git
-git clone https://github.com/liip/RMT.git
-git clone https://github.com/sabre-io/vobject.git
-git clone https://github.com/webfactory/slimdump.git
-git clone https://github.com/kriswallsmith/spork.git
-git clone https://github.com/EvanDotPro/Sslurp.git
-git clone https://github.com/jeremeamia/super_closure.git
-git clone http://anahkiasen.github.io/underscore-php.git
-git clone https://github.com/filp/whoops.git
-git clone https://github.com/Homebrew/homebrew-php.git
-git clone https://github.com/phpbrew/phpbrew.git
-git clone https://github.com/php-build/php-build.git
-git clone https://github.com/CHH/phpenv.git
-git clone https://github.com/jubianchi/phpswitch.git
-git clone https://github.com/facebook/hhvm.git
-git clone https://github.com/hippyvm/hippyvm.git
-git clone https://github.com/CoderKungfu/php-queue.git
-git clone https://github.com/sj26/mailcatcher.git
-git clone https://github.com/cachethq/cachet.git
-git clone https://github.com/mnapoli/phpBeanstalkdAdmin.git
-git clone https://github.com/ErikDubbelboer/phpRedisAdmin.git
-git clone https://github.com/phppgadmin/phppgadmin.git
-git clone https://github.com/phpmyadmin/phpmyadmin.git
-git clone https://github.com/getgrav/grav.git
-git clone https://github.com/electerious/Lychee.git
+git clone https://github.com/paragonie/past.git data/past/
+git clone https://github.com/laravel/laravel.git data/laravel/
+git clone https://github.com/symfony/thanks.git data/thanks/
+git clone https://github.com/composer/composer.git data/composer/
+git clone https://github.com/php-pm/php-pm.git data/pm/
+git clone https://github.com/mikeerickson/phpunit-pretty-result-printer.git data/printer/
+git clone https://github.com/Seldaek/monolog.git data/monolog/
+git clone https://github.com/doctrine/inflector.git data/inflector/
+git clone https://github.com/symfony/symfony.git data/symfony/
+git clone https://github.com/sebastianbergmann/phpunit.git data/phpunit/
+git clone https://github.com/fzaninotto/Faker.git data/Faker/
+git clone https://github.com/symfony/console.git data/console/
+git clone https://github.com/laravel/framework.git data/framework/
+git clone https://github.com/symfony/debug.git data/debug/
+git clone https://github.com/symfony/event-dispatcher.git data/dispatcher/
+git clone https://github.com/swiftmailer/swiftmailer.git data/swiftmailer/
+git clone https://github.com/symfony/finder.git data/finder/
+git clone https://github.com/guzzle/guzzle.git data/guzzle/
+git clone https://github.com/symfony/http-foundation.git data/foundation/
+git clone https://github.com/phpDocumentor/ReflectionDocBlock.git data/ReflectionDocBlock/
+git clone https://github.com/sebastianbergmann/php-timer.git data/timer/
+git clone https://github.com/symfony/routing.git data/routing/
+git clone https://github.com/phpDocumentor/TypeResolver.git data/TypeResolver/
+git clone https://github.com/symfony/http-kernel.git data/kernel/
+git clone https://github.com/sebastianbergmann/exporter.git data/exporter/
+git clone https://github.com/sebastianbergmann/php-code-coverage.git data/coverage/
+git clone https://github.com/phpDocumentor/ReflectionCommon.git data/ReflectionCommon/
+git clone https://github.com/nikic/PHP-Parser.git data/Parser/
+git clone https://github.com/symfony/process.git data/process/
+git clone https://github.com/sebastianbergmann/phpunit-mock-objects.git data/objects/
+git clone https://github.com/sebastianbergmann/comparator.git data/comparator/
+git clone https://github.com/composer/installers.git data/installers/
+git clone https://github.com/FriendsOfPHP/pickle.git data/pickle/
+git clone https://github.com/joshdifabio/composed.git data/composed/
+git clone https://github.com/silpion/composer-checker.git data/checker/
+git clone https://github.com/wikimedia/composer-merge-plugin.git data/plugin/
+git clone https://github.com/bamarni/composition.git data/composition/
+git clone https://github.com/ralphschindler/Namespacer.git data/Namespacer/
+git clone https://github.com/goatherd/patch-installer.git data/installer/
+git clone https://github.com/hirak/prestissimo.git data/prestissimo/
+git clone https://github.com/composer/satis.git data/satis/
+git clone https://github.com/tommy-muehle/tooly-composer-script.git data/script/
+git clone https://github.com/ppi.git data/ppi/
+git clone https://github.com/yiisoft/yii2/.git data/yii2//
+git clone https://github.com/friendsofcake/crud.git data/crud/
+git clone https://github.com/symfony-cmf/symfony-cmf.git data/cmf/
+git clone https://github.com/alexbilbie/Proton.git data/Proton/
+git clone https://github.com/radarphp/Radar.Adr.git data/Adr/
+git clone https://github.com/silexphp/Silex-Skeleton.git data/Skeleton/
+git clone https://github.com/silexphp/Silex-WebProfiler.git data/WebProfiler/
+git clone https://github.com/slimphp/Slim-Skeleton.git data/Skeleton/
+git clone https://github.com/slimphp/Slim-Views.git data/Views/
+git clone https://github.com/auraphp/Aura.Router.git data/Router/
+git clone https://github.com/nikic/FastRoute.git data/FastRoute/
+git clone https://github.com/klein/klein.php.git data/php/
+git clone https://github.com/c9s/Pux.git data/Pux/
+git clone https://github.com/thephpleague/route.git data/route/
+git clone https://github.com/auraphp/Aura.View.git data/View/
+git clone https://github.com/FoilPHP/Foil.git data/Foil/
+git clone https://github.com/pyrocms/lex.git data/lex/
+git clone https://github.com/arnaud-lb/MtHaml.git data/MtHaml/
+git clone https://github.com/bobthecow/mustache.php.git data/php/
+git clone https://github.com/phly/phly_mustache.git data/phly_mustache/
+git clone https://github.com/Talesoft/tale-jade.git data/jade/
+git clone http://couscous.io.git data/io/
+git clone https://github.com/Pawka/phrozn.git data/phrozn/
+git clone https://github.com/kriswallsmith/Buzz.git data/Buzz/
+git clone https://github.com/nategood/httpful.git data/httpful/
+git clone http://php-vcr.github.io/.git data/io//
+git clone https://github.com/rmccue/Requests.git data/Requests/
+git clone https://github.com/tebru/retrofit-php.git data/php/
+git clone https://github.com/zendframework/zend-diactoros.git data/diactoros/
+git clone https://github.com/oscarotero/Embed.git data/Embed/
+git clone https://github.com/FriendsOfPHP/Goutte.git data/Goutte/
+git clone https://github.com/mvdbos/php-spider.git data/spider/
+git clone https://zendframework.github.io/zend-expressive.git data/expressive/
+git clone https://github.com/oscarotero/psr7-middlewares.git data/middlewares/
+git clone https://github.com/relayphp/Relay.Relay.git data/Relay/
+git clone https://github.com/stackphp.git data/stackphp/
+git clone https://github.com/zendframework/zend-stratigility.git data/stratigility/
+git clone https://github.com/jeremykendall/php-domain-parser.git data/parser/
+git clone https://github.com/jwage/purl.git data/purl/
+git clone https://github.com/sabre-io/uri.git data/uri/
+git clone https://github.com/thephpleague/uri.git data/uri/
+git clone https://github.com/tijsverkoyen/CssToInlineStyles.git data/CssToInlineStyles/
+git clone https://github.com/willdurand/EmailReplyParser.git data/EmailReplyParser/
+git clone https://github.com/nojacko/email-validator.git data/validator/
+git clone https://github.com/tedious/Fetch.git data/Fetch/
+git clone https://github.com/mautic/mautic.git data/mautic/
+git clone https://github.com/PHPMailer/PHPMailer.git data/PHPMailer/
+git clone https://github.com/Stampie/Stampie.git data/Stampie/
+git clone https://github.com/dflydev/dflydev-apache-mime-types.git data/types/
+git clone https://github.com/dflydev/dflydev-canal.git data/canal/
+git clone https://github.com/thephpleague/csv.git data/csv/
+git clone https://github.com/versionable/Ferret.git data/Ferret/
+git clone https://github.com/thephpleague/Flysystem.git data/Flysystem/
+git clone https://github.com/KnpLabs/Gaufrette.git data/Gaufrette/
+git clone https://github.com/hoaproject/Mime.git data/Mime/
+git clone https://github.com/henrikbjorn/Lurker.git data/Lurker/
+git clone https://github.com/PHP-FFmpeg/PHP-FFmpeg/.git data/FFmpeg//
+git clone https://github.com/wapmorgan/UnifiedArchive.git data/UnifiedArchive/
+git clone https://github.com/fzaninotto/Streamer.git data/Streamer/
+git clone https://github.com/auraphp/Aura.Di.git data/Di/
+git clone https://github.com/AcclimateContainer/acclimate-container.git data/container/
+git clone https://github.com/rdlowrey/Auryn.git data/Auryn/
+git clone https://github.com/thephpleague/container.git data/container/
+git clone https://github.com/bitExpert/disco.git data/disco/
+git clone https://github.com/symfony/dependency-injection.git data/injection/
+git clone https://github.com/thephpleague/color-extractor.git data/extractor/
+git clone https://github.com/Sybio/GifCreator.git data/GifCreator/
+git clone https://github.com/Sybio/GifFrameExtractor.git data/GifFrameExtractor/
+git clone https://github.com/thephpleague/glide.git data/glide/
+git clone https://github.com/jenssegers/imagehash.git data/imagehash/
+git clone https://github.com/psliwa/image-optimizer.git data/optimizer/
+git clone https://github.com/nmcteam/image-with-text.git data/text/
+git clone https://github.com/Intervention/image.git data/image/
+git clone https://github.com/Sybio/ImageWorkshop.git data/ImageWorkshop/
+git clone https://github.com/nelmio/alice.git data/alice/
+git clone https://github.com/Codeception/AspectMock.git data/AspectMock/
+git clone https://github.com/atoum/atoum.git data/atoum/
+git clone https://github.com/Codeception/Codeception.git data/Codeception/
+git clone https://github.com/sebastianbergmann/dbunit.git data/dbunit/
+git clone https://github.com/InterNations/http-mock.git data/mock/
+git clone https://github.com/kahlan/kahlan.git data/kahlan/
+git clone https://github.com/mockery/mockery.git data/mockery/
+git clone https://github.com/brianium/paratest.git data/paratest/
+git clone https://github.com/peridot-php/peridot.git data/peridot/
+git clone https://github.com/mlively/Phake.git data/Phake/
+git clone https://github.com/danielstjules/pho.git data/pho/
+git clone https://github.com/php-mock/php-mock.git data/mock/
+git clone https://github.com/phpspec/phpspec.git data/phpspec/
+git clone https://github.com/phpspec/prophecy.git data/prophecy/
+git clone https://github.com/mauris/samsui.git data/samsui/
+git clone https://github.com/mikey179/vfsStream.git data/vfsStream/
+git clone https://github.com/adlawson/php-vfs.git data/vfs/
+git clone https://github.com/jolicode/JoliCi.git data/JoliCi/
+git clone https://github.com/apigen/apigen.git data/apigen/
+git clone https://github.com/justinwalsh/daux.io.git data/io/
+git clone https://github.com/phpDocumentor/phpDocumentor2.git data/phpDocumentor2/
+git clone https://github.com/FriendsOfPHP/Sami.git data/Sami/
+git clone https://paragonie.com/project/halite.git data/halite/
+git clone https://github.com/ezyang/htmlpurifier.git data/htmlpurifier/
+git clone https://github.com/psecio/iniscan.git data/iniscan/
+git clone https://github.com/jenssegers/optimus.git data/optimus/
+git clone https://github.com/defuse/php-encryption.git data/encryption/
+git clone https://github.com/PHPIDS/PHPIDS.git data/PHPIDS/
+git clone https://github.com/Herzult/php-ssh.git data/ssh/
+git clone https://github.com/paragonie/random_compat.git data/random_compat/
+git clone https://github.com/ircmaxell/RandomLib.git data/RandomLib/
+git clone https://github.com/padraic/SecurityMultiTool.git data/SecurityMultiTool/
+git clone https://github.com/timoh6/TCrypto.git data/TCrypto/
+git clone https://github.com/timoh6/GenPhrase.git data/GenPhrase/
+git clone https://github.com/ircmaxell/password_compat.git data/password_compat/
+git clone https://github.com/ircmaxell/password-policy.git data/policy/
+git clone https://github.com/jeremykendall/password-validator.git data/validator/
+git clone https://github.com/hackzilla/password-generator.git data/generator/
+git clone https://github.com/ircmaxell/PHP-PasswordLib.git data/PasswordLib/
+git clone https://github.com/bjeavons/zxcvbn-php.git data/php/
+git clone https://github.com/Roave/BetterReflection.git data/BetterReflection/
+git clone https://github.com/tomzx/php-semver-checker.git data/checker/
+git clone https://github.com/sebastianbergmann/phploc.git data/phploc/
+git clone https://github.com/EdgedesignCZ/phpqa.git data/phpqa/
+git clone https://github.com/Qafoo/QualityAnalyzer.git data/QualityAnalyzer/
+git clone https://scrutinizer-ci.com.git data/com/
+git clone https://github.com/devster/ubench.git data/ubench/
+git clone https://github.com/squizlabs/PHP_CodeSniffer.git data/PHP_CodeSniffer/
+git clone https://github.com/FriendsOfPHP/PHP-CS-Fixer.git data/Fixer/
+git clone https://github.com/PHPCheckstyle/phpcheckstyle.git data/phpcheckstyle/
+git clone https://github.com/sebastianbergmann/phpcpd.git data/phpcpd/
+git clone https://github.com/exakat/exakat.git data/exakat/
+git clone https://github.com/Trismegiste/Mondrian.git data/Mondrian/
+git clone https://github.com/phan/phan.git data/phan/
+git clone https://github.com/wimg/PHPCompatibility.git data/PHPCompatibility/
+git clone https://github.com/mamuz/PhpDependencyAnalysis.git data/PhpDependencyAnalysis/
+git clone https://github.com/phpmetrics/PhpMetrics.git data/PhpMetrics/
+git clone https://github.com/monque/PHP-Migration.git data/Migration/
+git clone https://github.com/phpstan/phpstan.git data/phpstan/
+git clone https://github.com/vimeo/psalm.git data/psalm/
+git clone https://github.com/igorw/compose.git data/compose/
+git clone https://github.com/domnikl/DesignPatternsPHP.git data/DesignPatternsPHP/
+git clone https://github.com/lstrojny/functional-php.git data/php/
+git clone https://github.com/endel/galapagos.git data/galapagos/
+git clone https://github.com/nikic/iter.git data/iter/
+git clone https://github.com/ircmaxell/monad-php.git data/php/
+git clone https://github.com/schmittjoh/php-option.git data/option/
+git clone https://github.com/thephpleague/pipeline.git data/pipeline/
+git clone https://github.com/bobthecow/Ruler.git data/Ruler/
+git clone https://github.com/K-Phoen/rulerz.git data/rulerz/
+git clone https://github.com/barbushin/php-console.git data/console/
+git clone https://github.com/kint-php/kint.git data/kint/
+git clone https://github.com/Seldaek/php-console.git data/console/
+git clone https://github.com/phpbench/phpbench.git data/phpbench/
+git clone https://github.com/nette/tracy.git data/tracy/
+git clone https://github.com/xdebug/xdebug.git data/xdebug/
+git clone https://github.com/phacility/xhprof.git data/xhprof/
+git clone https://github.com/CHH/bob.git data/bob/
+git clone https://github.com/box-project/box2.git data/box2/
+git clone https://github.com/jonathantorres/construct.git data/construct/
+git clone https://github.com/jaz303/phake.git data/phake/
+git clone https://github.com/jobbyphp/jobby.git data/jobby/
+git clone https://github.com/consolidation/Robo.git data/Robo/
+git clone http://taskphp.github.io.git data/io/
+git clone https://github.com/KnpLabs/KnpMenu.git data/KnpMenu/
+git clone https://github.com/tedious/JShrink.git data/JShrink/
+git clone https://github.com/meenie/munee.git data/munee/
+git clone https://github.com/puli/repository.git data/repository/
+git clone https://github.com/Bee-Lab/bowerphp.git data/bowerphp/
+git clone https://github.com/jmikola/geojson.git data/geojson/
+git clone https://github.com/thephpleague/geotools.git data/geotools/
+git clone https://github.com/mjaschen/phpgeo.git data/phpgeo/
+git clone https://github.com/briannesbitt/Carbon.git data/Carbon/
+git clone https://github.com/cakephp/chronos.git data/chronos/
+git clone https://github.com/fightbulc/moment.php.git data/php/
+git clone https://github.com/azuyalabs/yasumi.git data/yasumi/
+git clone https://github.com/amphp/amp.git data/amp/
+git clone https://github.com/broadway/broadway.git data/broadway/
+git clone https://github.com/cakephp/event.git data/event/
+git clone https://github.com/Wisembly/Elephant.io.git data/io/
+git clone https://github.com/igorw/evenement.git data/evenement/
+git clone https://github.com/thephpleague/event.git data/event/
+git clone https://github.com/hoaproject/Eventsource.git data/Eventsource/
+git clone https://github.com/hoaproject/Websocket.git data/Websocket/
+git clone https://github.com/prooph/event-store.git data/store/
+git clone https://github.com/ratchetphp/Ratchet.git data/Ratchet/
+git clone https://github.com/reactphp/react.git data/react/
+git clone https://github.com/asm89/Rx.PHP.git data/PHP/
+git clone https://github.com/walkor/Workerman.git data/Workerman/
+git clone https://github.com/moneyphp/money.git data/money/
+git clone https://github.com/thephpleague/omnipay.git data/omnipay/
+git clone https://github.com/payum/payum.git data/payum/
+git clone https://github.com/shopware/shopware.git data/shopware/
+git clone https://github.com/florianv/swap.git data/swap/
+git clone https://github.com/dompdf/dompdf.git data/dompdf/
+git clone https://github.com/psliwa/PHPPdf.git data/PHPPdf/
+git clone https://github.com/KnpLabs/snappy.git data/snappy/
+git clone https://github.com/wkhtmltopdf/wkhtmltopdf.git data/wkhtmltopdf/
+git clone https://github.com/Wisembly/ExcelAnt.git data/ExcelAnt/
+git clone https://github.com/PHPOffice/PHPPresentation.git data/PHPPresentation/
+git clone https://github.com/PHPOffice/PHPWord.git data/PHPWord/
+git clone https://github.com/PHPOffice/PhpSpreadsheet.git data/PhpSpreadsheet/
+git clone https://github.com/atlasphp/Atlas.Orm.git data/Orm/
+git clone https://github.com/auraphp/Aura.Sql.git data/Sql/
+git clone https://github.com/auraphp/Aura.SqlQuery.git data/SqlQuery/
+git clone https://github.com/etrepat/baum.git data/baum/
+git clone https://github.com/cakephp/orm.git data/orm/
+git clone https://github.com/Atlantic18/DoctrineExtensions.git data/DoctrineExtensions/
+git clone https://github.com/illuminate/database.git data/database/
+git clone https://github.com/corneltek/LazyRecord.git data/LazyRecord/
+git clone https://github.com/chanmix51/Pomm.git data/Pomm/
+git clone https://github.com/Ocramius/ProxyManager.git data/ProxyManager/
+git clone https://github.com/spotorm/spot2.git data/spot2/
+git clone https://github.com/icomefromthenet/Migrations.git data/Migrations/
+git clone https://github.com/cakephp/phinx.git data/phinx/
+git clone https://github.com/davedevelopment/phpmig.git data/phpmig/
+git clone https://github.com/ruckus/ruckusing-migrations.git data/migrations/
+git clone https://github.com/thephpleague/monga.git data/monga/
+git clone https://github.com/alexbilbie/MongoQB.git data/MongoQB/
+git clone https://github.com/sokil/php-mongo.git data/mongo/
+git clone https://github.com/nrk/predis.git data/predis/
+git clone https://github.com/bernardphp/bernard.git data/bernard/
+git clone https://github.com/jakubkulhan/bunny.git data/bunny/
+git clone https://github.com/pda/pheanstalk.git data/pheanstalk/
+git clone https://github.com/php-amqplib/php-amqplib.git data/amqplib/
+git clone https://github.com/tarantool-php/queue.git data/queue/
+git clone https://github.com/php-amqplib/Thumper.git data/Thumper/
+git clone https://github.com/ruflin/Elastica.git data/Elastica/
+git clone https://github.com/elastic/elasticsearch-php.git data/php/
+git clone https://github.com/ripaclub/sphinxsearch.git data/sphinxsearch/
+git clone http://foolcode.github.io/SphinxQL-Query-Builder.git data/Builder/
+git clone https://github.com/auraphp/Aura.Cli.git data/Cli/
+git clone https://github.com/borisrepl/boris.git data/boris/
+git clone https://github.com/Cilex/Cilex.git data/Cilex/
+git clone https://github.com/php-school/cli-menu.git data/menu/
+git clone https://github.com/c9s/CLIFramework.git data/CLIFramework/
+git clone https://github.com/thephpleague/climate.git data/climate/
+git clone https://github.com/nategood/commando.git data/commando/
+git clone https://github.com/mtdowling/cron-expression.git data/expression/
+git clone https://github.com/getopt-php/getopt-php.git data/php/
+git clone https://github.com/c9s/GetOptionKit.git data/GetOptionKit/
+git clone https://github.com/hoaproject/Console.git data/Console/
+git clone https://github.com/CHH/optparse.git data/optparse/
+git clone https://github.com/mcrumm/pecan.git data/pecan/
+git clone https://github.com/bobthecow/psysh.git data/psysh/
+git clone https://github.com/MrRio/shellwrap.git data/shellwrap/
+git clone https://github.com/auraphp/Aura.Auth.git data/Auth/
+git clone https://github.com/dflydev/dflydev-hawk.git data/hawk/
+git clone https://github.com/socialConnect/auth.git data/auth/
+git clone https://github.com/lcobucci/jwt.git data/jwt/
+git clone https://github.com/thephpleague/oauth1-client.git data/client/
+git clone https://github.com/thephpleague/oauth2-client.git data/client/
+git clone http://bshaffer.github.io/oauth2-server-php-docs.git data/docs/
+git clone https://github.com/opauth/opauth.git data/opauth/
+git clone https://github.com/Lusitanian/PHPoAuthLib.git data/PHPoAuthLib/
+git clone https://github.com/abraham/twitteroauth.git data/twitteroauth/
+git clone https://github.com/lyrixx/twitter-sdk.git data/sdk/
+git clone https://github.com/cebe/markdown.git data/markdown/
+git clone https://github.com/kzykhys/Ciconia.git data/Ciconia/
+git clone https://github.com/thephpleague/commonmark.git data/commonmark/
+git clone https://github.com/milesj/decoda.git data/decoda/
+git clone https://github.com/heyupdate/Emoji.git data/Emoji/
+git clone https://github.com/thephpleague/html-to-markdown.git data/markdown/
+git clone https://github.com/Masterminds/html5-php.git data/php/
+git clone https://github.com/erusev/parsedown.git data/parsedown/
+git clone https://github.com/michelf/php-markdown.git data/markdown/
+git clone https://github.com/jenssegers/agent.git data/agent/
+git clone https://github.com/sensiolabs/ansi-to-html.git data/html/
+git clone https://github.com/mikeemoo/ColorJizz-PHP.git data/PHP/
+git clone https://github.com/piwik/device-detector.git data/detector/
+git clone https://github.com/hoaproject/Ustring.git data/Ustring/
+git clone https://github.com/fukuball/jieba-php.git data/php/
+git clone https://github.com/serbanghita/Mobile-Detect.git data/Detect/
+git clone https://github.com/nicolas-grekas/Patchwork-UTF8.git data/UTF8/
+git clone https://github.com/cocur/slugify.git data/slugify/
+git clone https://github.com/jdorn/sql-formatter/.git data/formatter//
+git clone https://github.com/danielstjules/Stringy.git data/Stringy/
+git clone https://github.com/kzykhys/Text.git data/Text/
+git clone https://github.com/tobie/ua-parser/tree/master/php.git data/php/
+git clone https://github.com/jbroadway/urlify.git data/urlify/
+git clone https://github.com/ramsey/uuid.git data/uuid/
+git clone https://github.com/gabrielelana/byte-units.git data/units/
+git clone https://github.com/giggsey/libphonenumber-for-php.git data/php/
+git clone https://github.com/moontoast/math.git data/math/
+git clone https://github.com/powder96/numbers.php.git data/php/
+git clone https://github.com/Crisu83/php-conversion.git data/conversion/
+git clone https://github.com/triplepoint/php-units-of-measure.git data/measure/
+git clone https://github.com/auraphp/Aura.Filter.git data/Filter/
+git clone https://github.com/cakephp/validation.git data/validation/
+git clone https://github.com/rdohms/DMS-Filter.git data/Filter/
+git clone https://github.com/ircmaxell/filterus.git data/filterus/
+git clone https://github.com/ronanguilloux/IsoCodes.git data/IsoCodes/
+git clone https://github.com/romaricdrigon/MetaYaml.git data/MetaYaml/
+git clone https://github.com/Respect/Validation.git data/Validation/
+git clone https://github.com/brandonsavage/Upload.git data/Upload/
+git clone https://github.com/vlucas/valitron.git data/valitron/
+git clone https://github.com/serkin/Volan.git data/Volan/
+git clone https://github.com/zfcampus/zf-apigility-skeleton.git data/skeleton/
+git clone https://github.com/leedavis81/drest.git data/drest/
+git clone https://github.com/blongden/hal.git data/hal/
+git clone https://github.com/willdurand/Hateoas.git data/Hateoas/
+git clone https://github.com/willdurand/Negotiation.git data/Negotiation/
+git clone https://github.com/Luracast/Restler.git data/Restler/
+git clone https://github.com/wsdl2phpgenerator/wsdl2phpgenerator.git data/wsdl2phpgenerator/
+git clone https://github.com/apix/cache.git data/cache/
+git clone https://github.com/gordalina/cachetool.git data/cachetool/
+git clone https://github.com/cakephp/cache.git data/cache/
+git clone https://github.com/doctrine/cache.git data/cache/
+git clone https://github.com/sobstel/metaphore.git data/metaphore/
+git clone https://github.com/tedious/Stash.git data/Stash/
+git clone https://github.com/zendframework/zend-cache.git data/cache/
+git clone https://github.com/morrisonlevi/Ardent.git data/Ardent/
+git clone https://github.com/cakephp/collection.git data/collection/
+git clone https://github.com/italolelis/collections.git data/collections/
+git clone https://github.com/thephpleague/fractal.git data/fractal/
+git clone https://github.com/akanehara/ginq.git data/ginq/
+git clone https://github.com/cweiske/jsonmapper.git data/jsonmapper/
+git clone https://github.com/DusanKasan/Knapsack.git data/Knapsack/
+git clone https://github.com/schmittjoh/php-collection.git data/collection/
+git clone https://github.com/TimeToogo/Pinq.git data/Pinq/
+git clone https://github.com/ScriptFUSION/Porter.git data/Porter/
+git clone https://github.com/schmittjoh/serializer.git data/serializer/
+git clone https://github.com/Wisembly/Totem.git data/Totem/
+git clone https://github.com/Athari/YaLinqo.git data/YaLinqo/
+git clone https://github.com/zendframework/zend-serializer.git data/serializer/
+git clone https://github.com/jolicode/JoliNotif.git data/JoliNotif/
+git clone https://github.com/filp/nod.git data/nod/
+git clone https://github.com/Ph3nol/NotificationPusher.git data/NotificationPusher/
+git clone https://github.com/mac-cain13/notificato.git data/notificato/
+git clone https://github.com/namshi/notificator.git data/notificator/
+git clone https://github.com/gomoob/php-pushwoosh.git data/pushwoosh/
+git clone https://github.com/deployphp/deployer.git data/deployer/
+git clone https://github.com/laravel/envoy.git data/envoy/
+git clone https://github.com/aerialls/Plum.git data/Plum/
+git clone https://github.com/tamagokun/pomander.git data/pomander/
+git clone https://github.com/rocketeers/rocketeer.git data/rocketeer/
+git clone https://github.com/auraphp/Aura.Intl.git data/Intl/
+git clone https://github.com/cakephp/i18n.git data/i18n/
+git clone https://github.com/aws/aws-sdk-php.git data/php/
+git clone http://campaignmonitor.github.io/createsend-php.git data/php/
+git clone https://github.com/toin0u/DigitalOcean.git data/DigitalOcean/
+git clone https://github.com/dropbox/dropbox-sdk-php.git data/php/
+git clone https://github.com/dsyph3r/github-api3-php.git data/php/
+git clone https://github.com/mailgun/mailgun-php.git data/php/
+git clone https://github.com/KnpLabs/php-github-api.git data/api/
+git clone https://github.com/gwkunze/S3StreamWrapper.git data/S3StreamWrapper/
+git clone https://github.com/stripe/stripe-php.git data/php/
+git clone https://github.com/twilio/twilio-php.git data/php/
+git clone https://github.com/widop/twitter-oauth.git data/oauth/
+git clone https://github.com/widop/twitter-rest.git data/rest/
+git clone https://github.com/phalcon/zephir.git data/zephir/
+git clone https://github.com/doctrine/annotations.git data/annotations/
+git clone https://github.com/botman/botman.git data/botman/
+git clone https://github.com/cakephp/utility.git data/utility/
+git clone https://github.com/adamnicholson/Chief.git data/Chief/
+git clone https://github.com/ClassPreloader/ClassPreloader.git data/ClassPreloader/
+git clone https://github.com/umpirsky/country-list.git data/list/
+git clone https://github.com/mpratt/Embera.git data/Embera/
+git clone https://github.com/essence/essence.git data/essence/
+git clone https://github.com/selvinortiz/flux.git data/flux/
+git clone https://github.com/alexandresalome/graphviz.git data/graphviz/
+git clone https://github.com/hprose/hprose-php.git data/php/
+git clone https://github.com/Seldaek/jsonlint.git data/jsonlint/
+git clone https://github.com/willdurand/JsonpCallbackValidator.git data/JsonpCallbackValidator/
+git clone https://github.com/kakawait/Jumper.git data/Jumper/
+git clone https://github.com/raulfraile/Ladybug.git data/Ladybug/
+git clone https://github.com/igorw/lambda-php.git data/php/
+git clone https://github.com/beberlei/litecqrs-php.git data/php/
+git clone https://github.com/beberlei/metrics.git data/metrics/
+git clone https://github.com/ARCANEDEV/noCAPTCHA.git data/noCAPTCHA/
+git clone https://github.com/willdurand/nmap.git data/nmap/
+git clone https://github.com/euskadi31/Opengraph.git data/Opengraph/
+git clone https://github.com/whiteoctober/Pagerfanta.git data/Pagerfanta/
+git clone https://github.com/Kitano/php-expression.git data/expression/
+git clone https://github.com/eymengunay/php-passbook.git data/passbook/
+git clone https://github.com/ronanguilloux/php-gpio.git data/gpio/
+git clone https://github.com/php-ai/php-ml.git data/ml/
+git clone https://github.com/phpcr/phpcr.git data/phpcr/
+git clone https://github.com/koriym/print_o.git data/print_o/
+git clone https://github.com/lstrojny/Procrastinator.git data/Procrastinator/
+git clone https://github.com/prooph/service-bus.git data/bus/
+git clone https://github.com/liip/RMT.git data/RMT/
+git clone https://github.com/sabre-io/vobject.git data/vobject/
+git clone https://github.com/webfactory/slimdump.git data/slimdump/
+git clone https://github.com/kriswallsmith/spork.git data/spork/
+git clone https://github.com/EvanDotPro/Sslurp.git data/Sslurp/
+git clone https://github.com/jeremeamia/super_closure.git data/super_closure/
+git clone http://anahkiasen.github.io/underscore-php.git data/php/
+git clone https://github.com/filp/whoops.git data/whoops/
+git clone https://github.com/Homebrew/homebrew-php.git data/php/
+git clone https://github.com/phpbrew/phpbrew.git data/phpbrew/
+git clone https://github.com/php-build/php-build.git data/build/
+git clone https://github.com/CHH/phpenv.git data/phpenv/
+git clone https://github.com/jubianchi/phpswitch.git data/phpswitch/
+git clone https://github.com/facebook/hhvm.git data/hhvm/
+git clone https://github.com/hippyvm/hippyvm.git data/hippyvm/
+git clone https://github.com/CoderKungfu/php-queue.git data/queue/
+git clone https://github.com/sj26/mailcatcher.git data/mailcatcher/
+git clone https://github.com/cachethq/cachet.git data/cachet/
+git clone https://github.com/mnapoli/phpBeanstalkdAdmin.git data/phpBeanstalkdAdmin/
+git clone https://github.com/ErikDubbelboer/phpRedisAdmin.git data/phpRedisAdmin/
+git clone https://github.com/phppgadmin/phppgadmin.git data/phppgadmin/
+git clone https://github.com/phpmyadmin/phpmyadmin.git data/phpmyadmin/
+git clone https://github.com/getgrav/grav.git data/grav/
+git clone https://github.com/electerious/Lychee.git data/Lychee/
