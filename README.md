@@ -60,17 +60,20 @@ Into two files that are both included in this repo.
 snippets.dat
 protected $connection = 'connection-name';
 public function store(Request $request) { $flight = new Flight; $flight->name = $request->name; $flight->save(); }
+...
+[another 181,935 rows]
 
 comments.dat
 The connection name for the model. @var string
 Create a new flight instance. @param Request $request @return Response
-
+...
+[another 181,935 rows]
 ```
 
 If you want to generate them yourself you can run `php parser.php`.
 
 ## Facts about the dataset
- * A total of 34,105 PHP (or 5,22 GB) files in the dataset 
+ * A total of 34,105 PHP files in the dataset 
  * 33,116 (97.10%) had accompanying PSR Docblocks that could be parsed
  * 989 files (2.90%) were skipped due to incomplete/missing PSR Docblocks.
  * 181,937 rows (88 MB) of processed data feed into TensorFlow
