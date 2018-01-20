@@ -1,12 +1,12 @@
 # Obtaining the data yourself
 
-## How we generated the data
+## Fetch all the files
 
-We first cloned the 443 PHP libraries into the `data/` folder.
+**WARNING:** If you are trying this at home you must have at least 5 GB of available disk space and a few hours at hand depending on your bandwidth. 
 
-**WARNING:** If you are trying this at home you must have at least 5 GB of available disk space and a few hours depending on your bandwidth.
+The file [git-clone.sh](git-clone.sh) will clone 443 PHP libraries into a `data/` folder. To rin this file simply execute `bash git-clone.sh`.
 
-`bash git-clone.sh`. Here are a few examples of the commands:
+Here are a few examples of the commands that [git-clone.sh](git-clone.sh) will execute:
 
 ```
 1 git clone https://github.com/paragonie/past.git data/past/
@@ -18,7 +18,8 @@ We first cloned the 443 PHP libraries into the `data/` folder.
 443 git clone https://github.com/electerious/Lychee.git data/Lychee/
 ```
 
-Afterwards we parsed every PHP file to find functions that were commented using the PSR convention. Specifically, we turned this:
+## Parse every PHP script into your dataset
+Once you have downloaded the GitHub repos as mentioned above, you can run `php parser.php`. This will parse every PHP file to find snippets that were commented using the PSR convention. As an example this Laravel mock file would add two lines to [snippets.dat](../snippets.dat) and two lines to [comments.dat](../comments.dat)
 
 ```php
 /**
@@ -46,20 +47,16 @@ public function store(Request $request)
 }
 ```
 
-Into two files that are both included in this repo.
+Here is how this mock file would look like in [snippets.dat](../snippets.dat):
 
 ```
-snippets.dat
 protected $connection = 'connection-name';
 public function store(Request $request) { $flight = new Flight; $flight->name = $request->name; $flight->save(); }
-...
-[another 181,935 rows]
-
-comments.dat
-The connection name for the model. @var string
-Create a new flight instance. @param Request $request @return Response
-...
-[another 181,935 rows]
 ```
 
-If you want to generate them yourself you can run `php parser.php`.
+And [comments.dat](../comments.dat) would look like this:
+
+```
+The connection name for the model. @var string 
+Create a new flight instance. @param Request $request @return Response
+```
