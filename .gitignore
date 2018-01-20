@@ -1,5 +1,5 @@
-data/*
-bin/*
-include/*
+data/
+bin/
+include/
 pip-selfcheck.json
-lib/*
+lib/
